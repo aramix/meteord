@@ -1,4 +1,4 @@
-FROM abernix/meteord:base
+FROM aramix/meteord:base
 MAINTAINER MeteorHacks Pvt Ltd.
 
 ARG NODE_VERSION

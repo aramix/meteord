@@ -1,4 +1,4 @@
-FROM abernix/meteord:base
+FROM aramix/meteord:base
 MAINTAINER Jesse Rosenberger
 
 ARG NODE_VERSION
